@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "coordinate-viewer"
+    }
+  },
+  "defaultProject": "coordinate-viewer",
+  "cli": {
+    "analytics": "13f559fb-9501-4c64-942b-a90b001625fe"
+  }
 }
