@@ -1,0 +1,19 @@
+.grid {
+    display: flex;
+    flex-direction: column;
+}
+
+.g-row {
+    display: flex;
+}
+
+.g-cell {
+    border: 1px solid grey;
+    width: 16px;
+    height: 16px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
