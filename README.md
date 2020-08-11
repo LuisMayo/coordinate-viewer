@@ -1,6 +1,7 @@
 # CoordinateViewer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+This project is a really tiny angular app to show a list of three dimensional coordinates in a 2D-grid. Hovering with your mouse in a cell will tell you al the "z" points found at that x,y for the input data.
+Live at https://static.luismayo.com/coordinate-viewer/
 
 ## Development server
 
@@ -12,7 +13,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build --aot` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
 
